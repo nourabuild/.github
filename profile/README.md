@@ -2,16 +2,15 @@
 
 **Productivity & Collaboration Platform**
 
-**Tech Stack:** Python, Go, TypeScript, React, React Native Expo, PostgreSQL, REST APIs
-
-This team builds the core of an integrated productivity suite for **scheduling, collaboration, and user management**. Engineers own features **end-to-end**, from designing APIs and backend services to crafting responsive frontend workflows.
+**Tech Stack:** Go, TypeScript, React, React Native Expo, Traefik, PostgreSQL, MongoDB, Kafka, Otel, Sentry, Mailtrap, MinIO
 
 The goal is to ensure teams can:
 
 * Coordinate effectively
 * Schedule tasks and meetings efficiently
+* Facilitate communication between teams
 * Manage users seamlessly
 
 All while maintaining **reliability, scalability, and a smooth user experience** across the platform.
 
-<img width="1413" height="1034" alt="Noura Platform Diagram" src="https://github.com/user-attachments/assets/8981be82-99a4-4c8b-8598-a549db3d2bf1" />
+<img width="1121" height="794" alt="high-level-arch" src="https://github.com/user-attachments/assets/647a1025-4fa0-40e3-b257-a544d8503f1b" />
